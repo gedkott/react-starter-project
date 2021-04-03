@@ -20,7 +20,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "webpack": "^4.43.0",
+    "webpack": "^5",
     "webpack-cli": "^4.6.0",
     "webpack-dev-server": "^3.11.2",
     "@pmmmwh/react-refresh-webpack-plugin": "^0.4.3",
